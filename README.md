@@ -1,3 +1,5 @@
+![Guía de Go](https://github.com/FuenRob/Tour-de-Go/images/guia-de-go.jpg)
+
 # Guía de aprendizaje para Go
 
 ## [1. Introducción a Go](https://github.com/FuenRob/Tour-de-Go/blob/main/1.Introduccion.md)
