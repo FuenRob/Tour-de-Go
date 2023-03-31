@@ -1,4 +1,4 @@
-![Guía de Go](https://github.com/FuenRob/Tour-de-Go/images/guia-de-go.jpg)
+![Guía de Go](https://raw.githubusercontent.com/FuenRob/Tour-de-Go/main/images/guia-de-go.jpg)
 
 # Guía de aprendizaje para Go
 
