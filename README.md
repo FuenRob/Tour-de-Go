@@ -21,3 +21,6 @@
 ## [9. Programación concurrente en Go](https://github.com/FuenRob/Tour-de-Go/blob/main/9.Concurrencia.md)
 
 ## [10. Manejo de errores en Go](https://github.com/FuenRob/Tour-de-Go/blob/main/10.Manejo-de-errores.md)
+
+## Contribuidores
+* @FuenRob (Roberto Morais)
